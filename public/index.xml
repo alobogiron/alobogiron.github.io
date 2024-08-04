@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>alobogiron</title>
-    <link>//localhost:1313/</link>
+    <link>alobogiron.github.io/</link>
     <description>Recent content on alobogiron</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>giron@labnet.nce.ufrj.br (André Giron)</managingEditor>
     <webMaster>giron@labnet.nce.ufrj.br (André Giron)</webMaster>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="alobogiron.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
