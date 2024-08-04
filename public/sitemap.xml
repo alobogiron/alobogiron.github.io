@@ -4,21 +4,14 @@
   
     
       <url>
-            <loc>//localhost:1313/</loc>
+            <loc>/</loc>
             <lastmod>2024-08-04T11:55:27-03:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/posts/my-first-post/</loc>
-            <lastmod>2024-08-04T11:55:27-03:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>//localhost:1313/posts/</loc>
+            <loc>/posts/</loc>
             <lastmod>2024-08-04T11:55:27-03:00</lastmod>
           </url>
     
