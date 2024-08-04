@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on alobogiron</title>
-    <link>//localhost:1313/tags/</link>
+    <link>https://alobogiron.github.io/tags/</link>
     <description>Recent content in Tags on alobogiron</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>giron@labnet.nce.ufrj.br (André Giron)</managingEditor>
     <webMaster>giron@labnet.nce.ufrj.br (André Giron)</webMaster>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alobogiron.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
